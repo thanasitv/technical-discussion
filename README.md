@@ -9,3 +9,7 @@ This is a demo repo for sharing ideas around communication
 ### Gist
 
 This is a good example of [my code] (https://gist.github.com/thanasitv/5a980692818d07b06a5c1891e27d3db4)
+
+### Colab Example
+
+This is the notebook [notebook]  (https://github.com/thanasitv/technical-discussion/blob/main/techical_docs.ipynb)
