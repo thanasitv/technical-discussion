@@ -15,4 +15,4 @@ This is a good example of [my code] (https://gist.github.com/thanasitv/5a9806928
 This is the notebook [notebook]  (https://github.com/thanasitv/technical-discussion/blob/main/techical_docs.ipynb)
 
 ### Images
-https://user-images.githubusercontent.com/31183618/250424209-06637e16-56c2-4371-a628-7a788c6cf50e.png
+[images](https://user-images.githubusercontent.com/31183618/250424209-06637e16-56c2-4371-a628-7a788c6cf50e.png)https://user-images.githubusercontent.com/31183618/250424209-06637e16-56c2-4371-a628-7a788c6cf50e.png
